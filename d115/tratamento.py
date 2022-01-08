@@ -12,7 +12,7 @@ def testanome(phrase=''):
     return ' '.join(list_words)
 
 
-# Conseguir com acento /\ #
+# Conseguir com acento /\ # #
 
 
 def testaidade(frase):
