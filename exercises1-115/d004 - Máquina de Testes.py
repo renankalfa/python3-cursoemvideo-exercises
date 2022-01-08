@@ -1,0 +1,8 @@
+print('Máquina de Testes')
+n = input('Digite algo: ')
+print('O seu tipo primitivo é',type(n))
+print('Ela é um número?',n.isnumeric())
+print('Ela está no alfabeto?',n.isalpha())
+print('Ela está maiúscula?',n.isupper())
+print('Ela está minúscula?',n.islower())
+print('Valeu! É pro meu TCC.')

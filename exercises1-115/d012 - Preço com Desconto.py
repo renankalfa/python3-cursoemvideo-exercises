@@ -1,0 +1,5 @@
+print('Descontar Desconto')
+p = float(input('Preço do produto: '))
+d = float(input('Desconto (sem %): '))
+n = p * ((100-d)/100)
+print(f'\n Preço do produto: R${p} \n Desconto a ser aplicado: {d}% \n Preço com desconto: R${n:.2f}')

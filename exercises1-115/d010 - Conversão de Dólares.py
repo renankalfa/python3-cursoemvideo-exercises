@@ -1,0 +1,5 @@
+print('QUANTOS DÓLARES VOCÊ PODE COMPRAR?')
+m = float(input('Seu dinheiro (em R$): '))
+print(f'Você possui R${m} a serem convertidos. \n Pesquisando a cotação... \n Convertendo...')
+c = m/(5.20)
+print(f'A cotação atual é de R$ 5.20 para cada U$ 1.00. \n Quandos dólares podem ser comprados: U${c:.2f}')
