@@ -41,9 +41,9 @@ def lerArquivo(nome='novoarquivo.txt'):
 
 def armazenarArquivo(nome='novoarquivo.txt', nomep='', idade=0):
     try:
-        a = open(nome, 'r', encoding='utf-8')
+        a = open(nome, 'a', encoding='utf-8')
         conteudo = a.readlines()
-        conteudo.append(f'{nomep};{str(idade)}\n')
+        a.write(f'{str(nomep)};{str(idade)}\n')
     except Exception as erro:
         print('Erro de gravação!')
         print(erro)

@@ -9,7 +9,7 @@ if not arquivoExiste(arq):
     criarArquivo(arq)
 
 while True:
-    menu('Pessoas cadastradas', 'Cadastrar Pessoa', 'Encerrar Programa')
+    menu('Mostrar Pessoas cadastradas', 'Cadastrar Pessoa', 'Encerrar Programa')
     option = testaoption(input('\033[33mSua opção: \033[m'))
     if option == 1:
         lerArquivo(arq)
@@ -23,4 +23,3 @@ while True:
     if option == 3:
         encerrar()
         break
-
