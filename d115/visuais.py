@@ -1,5 +1,3 @@
-# Menu Principal
-
 def menu(*lista):
     from time import sleep
     sleep(0.5)

@@ -1,4 +1,3 @@
-from d115.visuais import *
 from d115.tratamento import *
 from d115.bancodedados import *
 from d115b.arquivos import *
