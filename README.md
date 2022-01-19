@@ -32,4 +32,4 @@
 - Enrolação em algumas partes;
 - Não aborda bem tópicos como: manipulação de arquivos de texto, classes e programação orientação a objetos.
 
-O último não é bem um ponto negativo, foi mais algo que senti falta depois.
+O último não é bem um ponto negativo, foi mais algo que senti falta depois. Estou complementando essa parte com o curso (Python Fundamentos Para Análise de Dados 3.0)[https://www.datascienceacademy.com.br/course/python-fundamentos] da Data Science Academy
