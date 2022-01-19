@@ -22,3 +22,14 @@
    - Funções em Python
    - Modularização em Python
    - Tratamento de Erros em Python
+
+## Pontos positivos e negativos dos cursos
+### Pontos positivos
+- Excelente didática, ainda mais para queme está iniciando;
+- Exercícios de monte para botar em prática e ainda aprender mais;
+- Comentários no youtube em que a galera se ajuda.
+### Pontos negativos
+- Enrolação em algumas partes;
+- Não aborda bem tópicos como: manipulação de arquivos de texto, classes e programação orientação a objetos.
+
+O último não é bem um ponto negativo, foi mais algo que senti falta depois.
