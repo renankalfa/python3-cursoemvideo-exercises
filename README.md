@@ -3,7 +3,7 @@
 
 <img width="2583" alt="três mundos" src="https://user-images.githubusercontent.com/97196457/150213664-74a4ed4d-d14b-419a-8fcd-fdac3b2b782e.png">
 
-## Conteúdo do Curso
+## 📚 Conteúdo do Curso
 - **Python 3 - Mundo 1 (40 horas)**
    - Introdução ao Mundo da Programação;
    - Primeiros passos com o Python;
@@ -23,7 +23,7 @@
    - Modularização em Python;
    - Tratamento de Erros em Python.
 
-## Pontos positivos e negativos dos cursos
+## 👍 Pontos positivos e 👎 negativos dos cursos
 ### Pontos positivos
 - Excelente didática, ainda mais para quem está iniciando;
 - Bom balanço teoria-prática;
