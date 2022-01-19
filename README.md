@@ -5,27 +5,28 @@
 
 ## Conteúdo do Curso
 - **Python 3 - Mundo 1 (40 horas)**
-   - Introdução ao Mundo da Programação
-   - Primeiros passos com o Python
-   - Tratando dados e fazendo contas
-   - Usando módulos do Python
-   - Condições em Python (if..else)
-   - Adicionando cores ao Python
+   - Introdução ao Mundo da Programação;
+   - Primeiros passos com o Python;
+   - Tratando dados e fazendo contas;
+   - Usando módulos do Python.
+   - Condições em Python (if..else);
+   - Adicionando cores ao Python;
 - **Python 3 - Mundo 2 (40 horas)**
-   - Condições em Python (if..elif)
-   - Repetições em Python (for)
-   - Repetições em Python (while)
+   - Condições em Python (if..elif);
+   - Repetições em Python (for);
+   - Repetições em Python (while).
 - **Python 3 - Mundo 3 (40 horas)**
-   - Tuplas em Python
-   - Listas em Python
-   - Dicionários em Python
-   - Funções em Python
-   - Modularização em Python
-   - Tratamento de Erros em Python
+   - Tuplas em Python;
+   - Listas em Python;
+   - Dicionários em Python;
+   - Funções em Python;
+   - Modularização em Python;
+   - Tratamento de Erros em Python.
 
 ## Pontos positivos e negativos dos cursos
 ### Pontos positivos
-- Excelente didática, ainda mais para queme está iniciando;
+- Excelente didática, ainda mais para quem está iniciando;
+- Bom balanço teoria-prática;
 - Exercícios de monte para botar em prática e ainda aprender mais;
 - Comentários no youtube em que a galera se ajuda.
 ### Pontos negativos
